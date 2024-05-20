@@ -1,17 +1,9 @@
-https://www.youtube.com/watch?v=bjCdsnkQ6Dw
-Podacast RAG
-
 https://www.elastic.co/es/what-is/retrieval-augmented-generation
 Explicacion de RAG
 
 https://www.elastic.co/es/what-is/retrieval-augmented-generation
 
 
-La pregunta se convierte en vectores tambien y se compara con el contexto de la vector data base, eso se integra en el prompt 
-que se agrega como input al modelo de GEN AI y produce una respuesta.
-
-
-
-apegarse a este articulo de mongoDB
+Articulo de mongo
 
 https://www.mongodb.com/es/resources/basics/retrieval-augmented-generation#:~:text=Los%20componentes%20b%C3%A1sicos%20de%20una%20arquitectura%20RAG%20b%C3%A1sica.&text=Un%20LLM%20pre%2Dentrenado%3A%20el,de%20conocimiento%20externa%20al%20LLM.
